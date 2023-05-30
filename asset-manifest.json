@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/chat/static/css/main.263e3455.css",
+    "main.js": "/chat/static/js/main.dd28fd9c.js",
+    "static/js/787.15fe922c.chunk.js": "/chat/static/js/787.15fe922c.chunk.js",
+    "static/media/fa-solid-900.ttf": "/chat/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/assortment-citrus-fruits.png": "/chat/static/media/assortment-citrus-fruits.2a7b348c0ee4a126fb83.png",
+    "static/media/fa-brands-400.ttf": "/chat/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/chat/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/chat/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/R (3).png": "/chat/static/media/R (3).64379dbd827ae651571f.png",
+    "static/media/fa-regular-400.ttf": "/chat/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/547-5474602_character-avatar-clipart.png": "/chat/static/media/547-5474602_character-avatar-clipart.fd1a2116aea39c8a6b74.png",
+    "static/media/flat-faces-icons-circle-16.png": "/chat/static/media/flat-faces-icons-circle-16.b22b96448f55ad204806.png",
+    "static/media/3855014.png": "/chat/static/media/3855014.01391d17eaa442c86138.png",
+    "static/media/R (1).png": "/chat/static/media/R (1).67531f9385ff0d9e5b65.png",
+    "static/media/fa-regular-400.woff2": "/chat/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/R (2).png": "/chat/static/media/R (2).fa05cdeacf6d8f43495d.png",
+    "static/media/fa-v4compatibility.ttf": "/chat/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/chat/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/chat/index.html",
+    "main.263e3455.css.map": "/chat/static/css/main.263e3455.css.map",
+    "main.dd28fd9c.js.map": "/chat/static/js/main.dd28fd9c.js.map",
+    "787.15fe922c.chunk.js.map": "/chat/static/js/787.15fe922c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.263e3455.css",
+    "static/js/main.dd28fd9c.js"
+  ]
+}
