@@ -1,0 +1,28 @@
+.fontsize{
+    font-size: .8rem;
+}
+
+.chatsColor{
+    background-color:rgba(134,168,231,1) ;
+}
+/* .conv-h{
+    height: 75vh;
+    overflow: scroll;
+} */
+
+.myfoc:focus{
+    background-color: none !important ; 
+}
+.opacity{
+    opacity: 0;
+}
+.Myclip{
+    cursor: pointer;
+}
+
+.iconshov{
+    transition: all .2s;
+}
+.iconshov:hover{
+    transform: scale(1.2);
+}

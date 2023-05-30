@@ -1,0 +1,9 @@
+.tohov{
+    transition: all .5s;
+    background-color: aliceblue;
+}
+
+.tohov:hover{
+    transform: scale(1.05);
+    background-color:rgba(134,168,231,1) ;
+}
